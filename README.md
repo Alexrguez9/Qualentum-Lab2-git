@@ -9,5 +9,4 @@ Pasos realizados:
 ✓ Elimina el commit.
 ✓ Elimina la rama tanto local como en el repositorio.
 • Evita que algunos ficheros se suban ignorándolos.
-• Por último, instala GitKraken y lo asocias al repositorio
-creado (https://www.gitkraken.com/). 
+• Por último, instala GitKraken y lo asocias al repositorio creado (https://www.gitkraken.com/). 
