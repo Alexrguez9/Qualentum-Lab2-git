@@ -8,8 +8,8 @@ Pasos realizados:
 ✓ Realiza el primer commit.
 ✓ Elimina el commit.
 ✓ Elimina la rama tanto local como en el repositorio.
-• Evita que algunos ficheros se suban ignorándolos.
-• Por último, instala GitKraken y lo asocias al repositorio creado (https://www.gitkraken.com/). 
+✓ Evita que algunos ficheros se suban ignorándolos.
+✓ Por último, instala GitKraken y lo asocias al repositorio creado (https://www.gitkraken.com/). 
 
 He decidido personalmente añadir un nuevo paso: 
  ✓ Crear nueva rama (test2) para no subir el .gitignore a la rama main.
